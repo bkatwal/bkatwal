@@ -1,7 +1,9 @@
 ## About me 🙋‍
 
 🔭 I’m currently working on improving Postman Search and bootstrapping new API Observability project.
+
 🔎 Search and Distributed Systems Engineer. 
+
 📖 Interested in NLP, ML/AI and Search Engines
 
 ## GitHub Stats 📊
