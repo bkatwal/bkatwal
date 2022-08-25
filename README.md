@@ -1,6 +1,6 @@
 ## About me 🙋‍
 
-🔭 I’m currently working on improving Postman Search and bootstrapping new API Observability project.
+🔭 I’m currently working on improving Search @Postman and bootstrapping new API Observability project.
 
 🔎 Search and Distributed Systems Engineer. 
 
