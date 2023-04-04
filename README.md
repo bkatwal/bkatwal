@@ -26,7 +26,9 @@
 
 </p>
 
-🔭 I’m currently working on improving Search @Postman and bootstrapping new API Observability project.
+🔭 Currently, part of Apple's AML Search team. 
+
+🔭 Previously, I worked at Walmart and Postman, where I focused on enhancing the search experience for the customers/users.
 
 💡 Open to collaborating on projects and innovative ideas.
 
